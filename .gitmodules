@@ -1,3 +1,3 @@
-[submodule "hugo-lime"]
-	path = themes/lime
-	url = https://github.com/uicardiodev/hugo-lime.git
+[submodule "themes/hugo-lime"]
+	path = themes/hugo-lime
+	url = git:https://github.com/uicardiodev/hugo-lime.git
