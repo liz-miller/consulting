@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "lizmillerfit.com"
 languageCode = "en-us"
 title = "Freelance Engineering | Liz Miller"
 theme = "hugo-lime"
