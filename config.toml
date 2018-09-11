@@ -4,6 +4,15 @@ title = "Freelance Engineering | Liz Miller"
 theme = "hugo-lime"
 googleAnalytics = "UA-98320078-1"
 
+[params]
+# head description
+# This is what appears on the preview when posting this site on Facebook for example
+description = "Robotics Engineering Made Easy: Contact Liz Miller for freelance engineering services."
+
+# head photo
+# This is what appears on the preview when posting this site on Facebook for example
+description_photo = "robotics.png"
+
 [build]
 publish = "public"
 command = "hugo --minify"
