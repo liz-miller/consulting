@@ -1,6 +1,6 @@
 baseURL = "localhost:1313"
 languageCode = "en-us"
-title = "Freelance Enginereing | Liz Miller"
+title = "Freelance Engineering | Liz Miller"
 theme = "lime"
 
 [build]
