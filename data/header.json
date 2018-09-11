@@ -1,0 +1,22 @@
+{
+  "brand" : "Green Paper",
+  "logo" : "logo.png",
+  "links" : [
+    {
+      "title" : "Home",
+      "href" : "#"
+    },
+    {
+      "title" : "Services",
+      "href" : "#features"
+    },
+    {
+      "title" : "Rates",
+      "href" : "#pricing"
+    },
+    {
+      "title" : "Contact",
+      "href" : "#contact"
+    }
+  ]
+}

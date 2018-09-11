@@ -1,0 +1,10 @@
+{
+	"components" : [
+		"cover",
+		"features",
+		"pricing",
+		"clients",
+		"contact"
+	],
+	"email": "liz.miller11@gmail.com"
+}

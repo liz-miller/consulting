@@ -1,0 +1,21 @@
+{
+  "title" : "My Services",
+  "description" : "I am a Robotics Engineer with a degree from WPI. I have experience in Manufacturing & Industrial Controls Systems and recently completed coursework for the Rockwell Automation Logix Programmer Certification. I can help you increase Production and improve ROI by mapping out Automation Strategies.",
+  "content" : [
+    {
+      "pic" : "road",
+      "title" : "Factory Automation Strategy ",
+      "description" : "With years of experience in high & low volume manufacturing, I can help you design a strategy for Connected Factory, IIoT, and Process Automation."
+    },
+    {
+      "pic" : "laptop",
+      "title" : "Controls Programming",
+      "description" : "Need help with programming or debugging? I have experience using Allen Bradley PLC's (Logix Family). I can help you develop an HMI, troubleshoot existing equipment, or create plans for a new projects."
+    },
+    {
+      "pic" : "cogs",
+      "title" : "Electronic & Robotic Prototyping",
+      "description" : "Bring your tech device to life! I can create a prototype using Arduino, Raspberry Pi, and modern technologies. I am also experienced with 3D printing, soldering, debugging, and IoT."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title" : "Consulting Rates",
+  "description" :
+    "Flexible Engineering Services for Automation. Now available in the Domestic USA.",
+  "content" : [
+    {
+      "title" : "Hourly",
+      "price" : "$65",
+      "features" : [
+        "Remote Services for your project",
+        "Pay as you go",
+        "Time Logging Report"
+      ],
+      "button" : {
+        "text" : "Schedule Now",
+        "href" : "https://calendly.com/lizmiller"
+      }
+    },
+    {
+      "title" : "Daily",
+      "price" : "Contact",
+      "features" : [
+        "All features of Hourly",
+        "Daily Rate Pricing",
+        "On-site Consulting Available*"
+      ],
+      "button" : {
+        "text" : "Contact",
+        "href" : "/#contact"
+      }
+    },
+    {
+      "title" : "Weekly & Monthly",
+      "price" : "Contact",
+      "features" : [
+        "All features of Daily",
+        "Long-Term Pricing",
+        "Best for Multi-Day Projects"
+      ],
+      "button" : {
+        "text" : "Contact",
+        "href" : "/#contact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+[submodule "lime"]
+	path = lime
+	url = ./themes/lime

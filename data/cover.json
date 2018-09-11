@@ -1,0 +1,11 @@
+{
+	"title" : "Freelance Robotics Engineering",
+	"description" : "I can help you with your next Controls, Automation, or Robotics project. ",
+	"illustration" : "robotics-automation-banner.png",
+	"alt_text" : "Learn how",
+	"alt_href" : "#features",
+	"button" : {
+		"text" : "Hire Me",
+		"href" : "#contact"
+	}
+}

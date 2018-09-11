@@ -1,0 +1,28 @@
+{
+  "title" : "Companies I've Worked With",
+  "description" : "Contact Me. I'll add your logo to the list!",
+  "clients" : [
+    {
+      "title" : "United Technologies",
+      "image" : "utc.png",
+      "link" : "https://utc.com"
+    },
+    {
+      "title" : "Vision X Lighting",
+      "image" : "vision-x.png",
+      "link" : "https://visionxusa.com"
+
+    },
+    {
+      "title" : "Weldingrods.com",
+      "image" : "weldingrods.png",
+      "link" : "https://weldingrods.com"
+    },
+    {
+      "title" : "Learn Robotics",
+      "image" : "learnrobotics.png",
+      "link": "https://www.learnrobotics.org"
+    }
+
+  ]
+}
