@@ -1,7 +1,7 @@
 baseURL = "localhost:1313"
 languageCode = "en-us"
 title = "Freelance Engineering | Liz Miller"
-theme = "lime"
+theme = "hugo-lime"
 
 [build]
 publish = "public"
