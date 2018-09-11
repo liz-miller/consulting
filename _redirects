@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://lizmiller.netlify.com/* http://lizmillerfit.com/:splat 301!
