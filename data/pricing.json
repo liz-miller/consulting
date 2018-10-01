@@ -4,23 +4,10 @@
     "Flexible Engineering Services for Automation. Now available in the Domestic USA.",
   "content" : [
     {
-      "title" : "Hourly",
-      "price" : "$68",
-      "features" : [
-        "Remote Services for your project",
-        "Pay as you go",
-        "Time Logging Report"
-      ],
-      "button" : {
-        "text" : "Schedule Now",
-        "href" : "https://calendly.com/lizmiller"
-      }
-    },
-    {
       "title" : "Daily",
       "price" : "Contact",
       "features" : [
-        "All features of Hourly",
+        "Remote Services for your project",
         "Daily Rate Pricing",
         "On-site Consulting Available*"
       ],
