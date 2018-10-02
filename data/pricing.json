@@ -4,7 +4,22 @@
     "Flexible Engineering Services for Automation. Now available in the Domestic USA.",
   "content" : [
     {
-      "title" : "Daily",
+      "title" : "Website Consult",
+      "opt": " ",
+      "price" : "$799",
+      "features" : [
+        "Static Site Creation",
+        "WordPress & WooCommerce",
+        "Blog Setup, SEO, & Analytics"
+      ],
+      "button" : {
+        "text" : "Buy Now",
+        "href" : "http://he2.co/EQ0U4T7J4C1"
+      }
+    },
+    {
+      "title" : "Engineering Daily",
+      "opt": " ",
       "price" : "Contact",
       "features" : [
         "Remote Services for your project",
@@ -18,11 +33,11 @@
     },
     {
       "title" : "Weekly & Monthly",
+      "opt": " ",
       "price" : "Contact",
       "features" : [
         "All features of Daily",
-        "Long-Term Pricing",
-        "Best for Multi-Day Projects",
+        "Great for Long-Term Projects*",
         "Project Management Included"
       ],
       "button" : {

@@ -1,6 +1,6 @@
 {
   "title" : "My Services",
-  "description" : "I am a Robotics Engineer with a degree from WPI. I have experience in Manufacturing & Industrial Controls Systems and recently completed coursework for the Rockwell Automation Logix Programmer Certification. I can help you increase Production and improve ROI by mapping out Automation Strategies.",
+  "description" : "I am a Robotics Engineer with a degree from WPI. I offer a wide range of technical services from controls systems, to electronic prototyping to web development to operation management. I can help you increase Production and improve ROI by implementing appropriate engineering solutions.",
   "content" : [
     {
       "pic" : "road",
@@ -16,6 +16,11 @@
       "pic" : "cogs",
       "title" : "Electronic & Robotic Prototyping",
       "description" : "Bring your tech device to life! I can create a prototype using Arduino, Raspberry Pi, and modern technologies. I am also experienced with 3D printing, soldering, debugging, and IoT."
+    },
+    {
+      "pic" : "link",
+      "title" : "Website & eCommerce Development",
+      "description" : "I can create your next website or eCommerce store using WordPress, WooCommerce, or Static Site Generators. Complete with SEO and optimized for your next sale."
     }
   ]
 }

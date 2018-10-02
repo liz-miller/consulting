@@ -29,5 +29,8 @@
     {{ $sass := resources.Get "/scss/bootstrap.scss" }}
     {{ $style := $sass | resources.ToCSS | resources.Minify}}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+    <!-- include Hellium & stripe -->
+    <script src="https://s3.amazonaws.com/he3/helium.js" id="Helium" data-key="iich8ewv4cap2jlu9me2"></script>
   </head>
   <body>
