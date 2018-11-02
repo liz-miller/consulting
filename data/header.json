@@ -17,6 +17,10 @@
     {
       "title" : "Contact",
       "href" : "#contact"
+    },
+    {
+      "title" : "LR Blog",
+      "href" : "https://www.learnrobotics.org"
     }
   ]
 }
