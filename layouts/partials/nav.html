@@ -12,7 +12,7 @@
           {{ range $header.links }}
 
               <li class="nav-item">
-                <a class="nav-link" href="{{.Site.BaseURL}}{{ .href | relURL }}">{{ .title }}</a>
+                <a class="nav-link" href="{{ .href | relURL }}">{{ .title }}</a>
               </li>
 
 
