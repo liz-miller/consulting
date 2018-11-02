@@ -4,17 +4,17 @@
     "Flexible Engineering Services for Automation. Now available in the Domestic USA.",
   "content" : [
     {
-      "title" : "Website Consult",
+      "title" : "1X Consult",
       "opt": " ",
-      "price" : "$799",
+      "price" : "Free",
       "features" : [
-        "Static Site Creation",
-        "WordPress & WooCommerce",
-        "Blog Setup, SEO, & Analytics"
+        "New Clients Only",
+        "20-minute Meeting",
+        "Automation, Controls, Strategy Planning"
       ],
       "button" : {
-        "text" : "Buy Now",
-        "href" : "http://he2.co/EQ0U4T7J4C1"
+        "text" : "Schedule",
+        "href" : "https://calendly.com/lizmiller"
       }
     },
     {
