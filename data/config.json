@@ -2,8 +2,8 @@
 	"components" : [
 		"cover",
 		"features",
-		"pricing",
 		"process",
+		"pricing",
 		"clients",
 		"contact"
 	],
