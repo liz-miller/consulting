@@ -1,0 +1,33 @@
+{
+  "title" : "My Process",
+  "description" :
+    "All Projects are Organized using a Schedule and Completion Timeline.",
+  "line" :
+    "I work to a plan and only take on clients that I can dedicate 100% of my resources to.",
+    "content" : [
+      {
+        "icon" : "comments",
+        "title" : "Step 1",
+        "step" : "Plan",
+        "description" : "FREE Remote Call to Discuss your Project Deliverables & Timeline"
+      },
+      {
+        "icon" : "laptop",
+        "title" : "Step 2",
+        "step" : "Implement",
+        "description" : "Upon Agreement, I build and launch your project to specification(s)"
+      },
+      {
+        "icon" : "users",
+        "title" : "Step 3",
+        "step" : "Train",
+        "description" : "I will demonstrate, revise, & train you on project deliverables"
+      },
+      {
+        "icon" : "redo",
+        "title" : "Step 4",
+        "step" : "Maintain",
+        "description" : "I am available for continuous improvements, changes, & tech support"
+      }
+    ]
+  }

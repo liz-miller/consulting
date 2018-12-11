@@ -1,5 +1,5 @@
 {
-  "title" : "Companies I've Worked With",
+  "title" : "Clients I've Worked With",
   "description" : "Contact Me. I'll add your logo to the list!",
   "clients" : [
     {
@@ -20,7 +20,7 @@
     },
     {
       "title" : "Learn Robotics",
-      "image" : "learnrobotics.png",
+      "image" : "learnrobotics-v2.png",
       "link": "https://www.learnrobotics.org"
     }
 

@@ -1,26 +1,21 @@
 {
   "title" : "My Services",
-  "description" : "I am a Robotics Engineer with a degree from WPI. I offer a wide range of technical services from controls systems, to electronic prototyping to web development to operation management. I can help you increase Production and improve ROI by implementing appropriate engineering solutions.",
+  "description" : "I am a talented Robotics Engineer with a degree from WPI. I offer a wide range of technical and engineering services from robotics & automation, to programming & prototyping to WordPress & web development. All of my projects include 1:1 remote interaction & Project Management.",
   "content" : [
     {
       "pic" : "road",
-      "title" : "Factory Automation Strategy ",
-      "description" : "With years of experience in high & low volume manufacturing, I can help you design a strategy for Connected Factory, IIoT, and Process Automation."
+      "title" : "Robotics & Automation Engineering",
+      "description" : "I have professional experience in Automation, Manufacturing, and Production Operations. I can program Controls Systems including PLC's (Allen Bradley), troubleshoot Industrial Systems (Robots, Conveyors, Safety Systems, HMI's), and work with embedded microcontrollers (Arduino, NodeMCU, Raspberry Pi)."
     },
     {
       "pic" : "laptop",
-      "title" : "Controls Programming",
-      "description" : "Need help with programming or debugging? I have experience using Allen Bradley PLC's (Logix Family). I can help you develop an HMI, troubleshoot existing equipment, or create plans for a new projects."
+      "title" : "Custom Python & embedded C Programs",
+      "description" : "Need help with programming or debugging? Want to create a custom script? I have experience writing programs in Python and C (for microcontrollers). I can interface scripts with CSV's, Databases, and API's to reduce labor and provide real-time analysis."
     },
     {
       "pic" : "cogs",
-      "title" : "Electronic & Robotic Prototyping",
-      "description" : "Bring your tech device to life! I can create a prototype using Arduino, Raspberry Pi, and modern technologies. I am also experienced with 3D printing, soldering, debugging, and IoT."
-    },
-    {
-      "pic" : "link",
-      "title" : "Website & eCommerce Development",
-      "description" : "I can create your next website or eCommerce store using WordPress, WooCommerce, or Static Site Generators. Complete with SEO and optimized for your next sale."
+      "title" : "WordPress Websites & eCommerce",
+      "description" : "Bring your ideas to life with a mobile-friendly, optimized WordPress website. I have full experience designing, building, and maintaining WordPress sites from scratch. This includes extensive knowledge with Domain/Hosting, SSL, WooCommerce, Payment Processing, Fulfillment, Metrics (Google Analytis / Facebook Pixels), and Portfolios/Landing Pages."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "title" : "Consulting Rates",
   "description" :
-    "Flexible Engineering Services for Automation. Now available in the Domestic USA.",
+    "Have a Project and need someone with a Technical Aptitude? Let's work together!",
   "content" : [
     {
       "title" : "1X Consult",
@@ -9,8 +9,8 @@
       "price" : "Free",
       "features" : [
         "New Clients Only",
-        "20-minute Meeting",
-        "Automation, Controls, Strategy Planning"
+        "20-minute Remote Phone/Video Call",
+        "Project Outline & Proposal"
       ],
       "button" : {
         "text" : "Schedule",
@@ -18,7 +18,7 @@
       }
     },
     {
-      "title" : "Engineering Daily",
+      "title" : "Contracted Daily",
       "opt": " ",
       "price" : "Contact",
       "features" : [
