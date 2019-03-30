@@ -2,29 +2,6 @@
   "brand" : "LM Consulting",
   "logo" : "logo.png",
   "links" : [
-    {
-      "title" : "Home",
-      "href" : "#"
-    },
-    {
-      "title" : "Services",
-      "href" : "#features"
-    },
-    {
-      "title" : "Process",
-      "href" : "#process"
-    },
-    {
-      "title" : "Rates",
-      "href" : "#pricing"
-    },
-    {
-      "title" : "Contact",
-      "href" : "#contact"
-    },
-    {
-      "title" : "LR Blog",
-      "href" : "https://www.learnrobotics.org"
-    }
+    
   ]
 }

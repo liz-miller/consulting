@@ -1,0 +1,14 @@
+{
+	"title" : "Triple-Threat Engineering Services",
+	"subtitle": "Bring your project to the next level with interdiciplinary technical and client services by Liz Miller.",
+	"description" : "My competencies span a variety of engineering fields: Robotics/Automation, Programming, and WordPress Websites. I can help organize, manage, and deliver your next technical project!",
+	"illustration" : "robotics-cover.png",
+	"ref":"https://www.freepik.com/free-vector/flat-multitask-robot_3469061.htm",
+	"att":"Designed by Freepik",
+	"alt_text" : "",
+	"alt_href" : "",
+	"button" : {
+		"text" : "Find me on Learn Robotics",
+		"href" : "https://www.learnrobotics.org/blog?utm_source=lizmillerfit"
+	}
+}
