@@ -1,6 +1,7 @@
 {
 	"components" : [
-		"cover"
+		"cover",
+		"modal"
 	],
 	"email": "liz.miller11@gmail.com"
 }
