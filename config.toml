@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Freelance Engineering | Liz Miller"
+title = "Robotics Engineer | Liz Miller"
 theme = "hugo-lime"
 googleAnalytics = "UA-98320078-1"
 
@@ -14,7 +14,7 @@ canonifyURLs = true
 [params]
 # head description
 # This is what appears on the preview when posting this site on Facebook for example
-description = "Robotics Engineering Made Easy: Contact Liz Miller for freelance engineering services."
+description = "Robotics & Automation by Liz Miller"
 
 # head photo
 # This is what appears on the preview when posting this site on Facebook for example
