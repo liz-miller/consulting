@@ -26,6 +26,11 @@
           </div>
 
           <div class="form-group">
+            <label>Location*</label>
+            <input required="true" type="location" placeholder="City, State Country" name="Location" class="form-control">
+          </div>
+
+          <div class="form-group">
             <label>What's your project about?*</label>
             <textarea required="true" placeholder="Give a brief description..." name="Info" rows="5" class="form-control"></textarea>
           </div>
@@ -40,6 +45,15 @@
               </select>
             </div>
 
+            <div class="form-group">
+              <label>What is your timeline?*</label>
+              <select required="true" placeholder="Select one..." name="duration[]" class="form-control" single>
+                  <option value="week"> Less than 1 month</option>
+                  <option selected="selected" value="month">1 month</option>
+                  <option value="multimonth">2-11 months</option>
+                  <option value="year">1 year+</option>
+                </select>
+              </div>
 
           <div class="form-group">
             <div data-netlify-recaptcha></div>
