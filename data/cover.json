@@ -3,12 +3,12 @@
 	"subtitle": "",
 	"description" : "Due to a massive influx of work, I'm currently unable to take on new clients. I'll be opening up slots for new clients in Summer 2019.",
 	"subdes": "",
-	"illustration" : "balancingbot.jpg",
+	"illustration" : "arduinoboards.jpg",
 	"ref":"https://www.freepik.com/free-vector/flat-multitask-robot_3469061.htm",
 	"att":"  ",
 	"alt_text" : "Get on the Waiting List",
 	"alt_href" : "",
-	"learnrobotics": "Apply for Services below, or check out my Robotics Blog!",
+	"learnrobotics": "Apply for Services below, or check out my Robotics Blog",
 	"button" : {
 		"text" : "Visit Learn Robotics",
 		"href" : "https://www.learnrobotics.org/blog?utm_source=lizmillerfit"
