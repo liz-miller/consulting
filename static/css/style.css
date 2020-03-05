@@ -4968,7 +4968,7 @@ button.close {
 
 @media (min-width: 576px) {
   .modal-dialog {
-    max-width: 500px;
+    max-width: 80% !important;
     margin: 1.75rem auto
   }
 
@@ -4983,7 +4983,7 @@ button.close {
 
 @media (min-width: 992px) {
   .modal-lg {
-    max-width: 800px
+    max-width: 1000px
   }
 }
 
@@ -8192,7 +8192,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-  color: #6c757d !important
+  color: #2ca545 !important;
 }
 
 .text-hide {
