@@ -1,14 +1,14 @@
 {
-	"title" : "Engineer & Entrepreneur",
+	"title" : "Robotics & Automation Engineer",
 	"subtitle": "",
-	"description" : "Robots, Writing, Creativity, and More",
+	"description" : "I help businesses and organizations learn and use robots.",
 	"subdes": "",
-	"illustration" : "arduinoboards.jpg",
-	"ref":"https://www.freepik.com/free-vector/flat-multitask-robot_3469061.htm",
-	"att":"  ",
+	"illustration" : "liz-miller-robotics-services-cover.jpg",
+	"ref":"https://www.freepik.com/free-photos-vectors/technology",
+	"att":"Technology vector created by slidesgo - www.freepik.com",
 	"alt_text" : "Apply Now",
 	"alt_href" : "",
-	"learnrobotics": "Apply for Services below, or check out Learn Robotics",
+	"learnrobotics": "Hire me for services or view the Learn Robotics Blog.",
 	"button" : {
 		"text" : "Visit Learn Robotics",
 		"href" : "https://www.learnrobotics.org/blog?utm_source=lizmillerfit"

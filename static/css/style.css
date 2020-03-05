@@ -8134,7 +8134,8 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #6c757d !important
+  color: #6c757d !important;
+  margin-bottom:50px !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -8182,7 +8183,8 @@ a.text-light:hover, a.text-light:focus {
 }
 
 .text-dark {
-  color: #343a40 !important
+  color: #343a40 !important;
+  margin-bottom:25px !important;
 }
 
 a.text-dark:hover, a.text-dark:focus {
@@ -8559,4 +8561,9 @@ article p {
 .row-reverse {
   display: flex;
   flex-direction: row-reverse;
+}
+
+a{
+  color:#1B2D37 !important;
+  text-decoration: underline !important;
 }

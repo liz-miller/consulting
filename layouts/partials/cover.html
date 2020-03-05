@@ -7,15 +7,15 @@
       <div class="col-lg-6 col-12 text-center col-lg-push-6" style="margin-top:25px; margin-bottom:50px;">
           <!--<div class="video-container"> <iframe width="100%" height="315px" src="https://www.youtube.com/embed/zaIsVnmwdqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> -->
          <img class="" style="max-width: 90%" src="{{ .Site.BaseURL }}/images/covers/{{ $cover.illustration }}">
-          <sub> <a href="{{ $cover.ref }}" target="_blank" rel="noopener">{{ $cover.att }}</a></sub>
+          <p><a style="color:#1B2D37;font-size:10px;text-decoration:underline" href="{{ $cover.ref }}" target="_blank" rel="nofollow noopener">{{ $cover.att }}</a></p>
      </div>
 
 
       <div class="col-lg-6 col-12 coverInfo col-lg-pull-6">
-          <h1 style="font-size:42px" class="h1 text-dark">{{ $cover.title }}</h1>
+          <h1 style="font-size:36px" class="h1 text-dark">{{ $cover.title }}</h1>
           <h2 style="font-size:18px" class="h2 text-dark">{{ $cover.subtitle }}</h2>
-          <p class="text-secondary">{{ $cover.description }}{{ $cover.subdes }}</p>
-          <h2 style="font-size:18px" class="h2 text-dark">{{ $cover.learnrobotics }}</h2>
+          <p class="text-secondary" style="margin-bottom:25px">{{ $cover.description }}{{ $cover.subdes }}</p>
+          <h2 style="font-size:18px;margin-bottom:25px" class="h2 text-dark">{{ $cover.learnrobotics }}</h2>
           <a href="" class="btn btn-success mr-3" data-toggle="modal" data-target="#modalRegisterForm">{{ $cover.alt_text }}</a>
           <a href="{{ $cover.button.href }}" class="text-muted">{{ $cover.button.text }}</a>
 
