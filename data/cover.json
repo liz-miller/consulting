@@ -8,9 +8,9 @@
 	"att":"Technology vector created by slidesgo - www.freepik.com",
 	"alt_text" : "Apply Now",
 	"alt_href" : "",
-	"learnrobotics": "Hire me for services or view the Learn Robotics Blog.",
+	"learnrobotics": "Hire me for services or visit Learn Robotics.",
 	"button" : {
 		"text" : "Visit Learn Robotics",
-		"href" : "https://www.learnrobotics.org/blog?utm_source=lizmillerfit"
+		"href" : "https://www.learnrobotics.org/blog/?utm_source=lizmillerfit"
 	}
 }
