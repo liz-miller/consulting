@@ -82,34 +82,3 @@ description_photo = "robotics.png"
 
   [params.footer]
       copyright = "© Liz Miller. All rights reserved."
-
-[build]
-  publish = "public"
-  command = "hugo --minify"
-
-[context.production.environment]
-  HUGO_VERSION = "0.79.1"
-  HUGO_ENV = "production"
-  HUGO_ENABLEGITINFO = "true"
-
-[context.split1]
-  command = "hugo --enableGitInfo"
-
-[context.split1.environment]
-  HUGO_VERSION = "0.79.1"
-  HUGO_ENV = "production"
-
-[context.deploy-preview]
-  command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.79.1"
-
-[context.branch-deploy]
-  command = "hugo -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.79.1"
-
-[context.next.environment]
-  HUGO_ENABLEGITINFO = "true"
