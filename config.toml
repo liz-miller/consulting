@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Robotics Engineer | Liz Miller"
-theme = "raditian-free-hugo-theme"
+theme = "raditian"
 googleAnalytics = "UA-98320078-1"
 
 # SEO
