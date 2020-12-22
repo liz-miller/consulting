@@ -36,6 +36,18 @@ description_photo = "robotics.png"
   [[params.plugins.js]]
   URL = "js/library/fontfaceobserver.js"
 
+
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = "Liz Miller"
+    text2 = "Freedom in Tech"
+
+  [params.footer]
+      copyright = "© Liz Miller. All rights reserved."
+
 # navigation
 [menu]
 
@@ -68,17 +80,3 @@ description_photo = "robotics.png"
   name = "Contact"
   URL = "#contact"
   weight = 4
-
-
-[params]
-
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
-
-  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
-
-  [params.logo]
-    text1 = "Liz Miller"
-    text2 = "Freedom in Tech"
-
-  [params.footer]
-      copyright = "© Liz Miller. All rights reserved."
